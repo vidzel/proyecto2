@@ -32,6 +32,11 @@ body
     font-size: 0.8em;
 }
 
+#footer
+{
+    color: antiquewhite;
+}
+
 #container
 {
     width: 70%;
